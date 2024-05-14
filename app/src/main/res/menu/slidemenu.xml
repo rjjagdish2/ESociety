@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/homemenu"
+            android:icon="@drawable/userlogo"
+            android:title="Profile"/>
+
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/societydetails"
+            android:icon="@drawable/logo"
+            android:title="Society Details"/>
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/leavesociety"
+            android:icon="@drawable/logout_icon"
+            android:title="Leave Society"/>
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/logout"
+            android:title="Logout"
+            android:icon="@drawable/logout_icon"/>
+    </group>
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/share"
+            android:title="Share Society Code"
+            android:icon="@drawable/ic_baseline_share_24"/>
+    </group>
+</menu>

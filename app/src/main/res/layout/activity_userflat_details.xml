@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".userflat_details"
+    android:background="@drawable/register_societyblue">
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="350dp"
+        android:layout_height="450dp"
+        android:elevation="60dp"
+        android:translationZ="90dp"
+        app:cardCornerRadius="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.498">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/register_societyblue"/>
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="110dp"
+            android:layout_marginStart="135dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/logo"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.466"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+        <EditText
+            android:id="@+id/flatNo"
+            android:textColorHint="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="200dp"
+            android:background="@drawable/bg"
+            android:layout_marginEnd="10dp"
+            android:hint="Flat No."
+            android:paddingStart="10dp"
+            android:textColor="@color/white"
+            android:textSize="30dp" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content"
+            android:layout_marginTop="90dp"
+            android:fontFamily="serif"
+            android:paddingStart="10dp"
+            android:text="Your Flat"
+            android:textAlignment="center"
+            android:textColor="#004879"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+
+
+        <EditText
+            android:textColorHint="@color/white"
+            android:id="@+id/members"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="17dp"
+            android:layout_marginTop="280dp"
+            android:background="@drawable/bg"
+            android:layout_marginEnd="10dp"
+            android:hint="No. of Members"
+            android:paddingStart="10dp"
+            android:textColor="@color/white"
+            android:textSize="30sp" />
+
+        <ImageButton
+            android:background="@drawable/bg"
+            android:src="@drawable/ic_baseline_navigate_next_24"
+            android:id="@+id/regBtn"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="280dp"
+            android:layout_marginTop="400dp"
+            android:layout_marginEnd="50dp"
+            android:backgroundTint="#00FFFF00"
+            android:paddingStart="45dp"
+            android:paddingTop="10dp"
+            android:paddingEnd="45dp"
+            android:paddingBottom="10dp"
+            android:shadowColor="#000000"
+            android:shadowDx="50"
+            android:shadowDy="50"
+            android:textSize="25dp"
+            app:cornerRadius="20dp"
+            app:tint="@color/white" />
+
+
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

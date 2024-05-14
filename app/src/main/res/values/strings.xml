@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ESocietyManagement</string>
+    <string name="open">abc</string>
+    <string name="close">xyz</string>
+
+    <string name="nev_open">Open Nev</string>
+    <string name="nev_close">Close Nav</string>
+</resources>
