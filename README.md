@@ -1,3 +1,4 @@
+<b> <h1> ESocietyManagement </h1> </b> <br />
 This is my first Android project, so there may be bugs or incorrect methods implemented.
 
 Services:
