@@ -11,13 +11,10 @@ Thank you.
 
 Screenshots
 
-![dashbord](https://github.com/rjjagdish2/ESociety/assets/110174722/975f90e4-684d-4c02-92b5-633294a7ddfd)![join society](https://github.com/rjjagdish2/ESociety/assets/110174722/b256afde-9e39-49c3-8d05-2e3068dd3a29)
-![first_page](https://github.com/rjjagdish2/ESociety/assets/110174722/e9f9b6f8-2c4d-4c4c-8e92-9ef2a523e2ff)
-
-![create_society](https://github.com/rjjagdish2/ESociety/assets/110174722/22cb25c7-7b3e-46aa-b017-04cbf38885c7)
-
-![account](https://github.com/rjjagdish2/ESociety/assets/110174722/8d1d43b6-14a9-401f-9a35-c70a8035cde2)
-![OTP2](https://github.com/rjjagdish2/ESociety/assets/110174722/ae761019-f125-408d-aee2-6a3026fb54d4)
-![OTP1](https://github.com/rjjagdish2/ESociety/assets/110174722/0f3b9caf-0dc6-44f7-a01d-a675e1db0470)
-![otp](https://github.com/rjjagdish2/ESociety/assets/110174722/292962ef-8ab8-424e-9ba6-5f2c109cf537)
-![other_pages_demo](https://github.com/rjjagdish2/ESociety/assets/110174722/5e514241-8a0f-45b2-9f65-d9b0e40b92b2)
+![dashbord](https://github.com/rjjagdish2/ESociety/assets/110174722/7eb717f0-9f9e-45ba-a3c4-58d7eee65e5a)
+![create_society](https://github.com/rjjagdish2/ESociety/assets/110174722/dfd292f1-57fd-4879-8611-69a9c0800b34)
+![account](https://github.com/rjjagdish2/ESociety/assets/110174722/7428aad1-65d2-47a9-8677-37a7c4195a3f)
+![otp](https://github.com/rjjagdish2/ESociety/assets/110174722/89791041-f9ac-4a06-b004-1ae8d921876f)
+![other_pages_demo](https://github.com/rjjagdish2/ESociety/assets/110174722/ac77379d-b20c-4360-b9ea-9c09225bbdeb)
+![join society](https://github.com/rjjagdish2/ESociety/assets/110174722/42469b7a-113e-4a87-85d2-df03e6e67356)
+![first_page](https://github.com/rjjagdish2/ESociety/assets/110174722/20c0dc6c-23be-4aee-b2e3-9af2f3596c08)
